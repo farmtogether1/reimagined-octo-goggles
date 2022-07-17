@@ -3095,7 +3095,7 @@ body .modal-backdrop {
   position: relative;
   z-index: 9;
   overflow: hidden;
-  background: url(/assets/images/rat/howtoplaybackground.png);
+  background: url(../../assets/images/rat/howtoplaybackground.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -3374,28 +3374,28 @@ body .modal-backdrop {
 }
 
 .roadmapicon1 {
-  background: url(/assets/images/rat/roadmapicon1.png) no-repeat;
+  background: url(../../assets/images/rat/roadmapicon1.png) no-repeat;
   background-size: contain;
   background-position: center center;
   width: 300px;
   height: 500px;
 }
 .roadmapicon2 {
-  background: url(/assets/images/rat/roadmapicon2.png) no-repeat;
+  background: url(../../assets/images/rat/roadmapicon2.png) no-repeat;
   background-size: contain;
   background-position: center center;
   width: 300px;
   height: 500px;
 }
 .roadmapicon3 {
-  background: url(/assets/images/rat/roadmapicon3.png) no-repeat;
+  background: url(../../assets/images/rat/roadmapicon3.png) no-repeat;
   background-size: contain;
   background-position: center center;
   width: 300px;
   height: 500px;
 }
 .roadmapicon4 {
-  background: url(/assets/images/rat/roadmapicon4.png) no-repeat;
+  background: url(../../assets/images/rat/roadmapicon4.png) no-repeat;
   background-size: contain;
   background-position: center center;
   width: 300px;
@@ -15422,10 +15422,10 @@ div.latest-item .hover-shape-bg {
 /*# sourceMappingURL=style.css.map */
 
 .play_now {
-  background: url("/assets/images/rat/button.png") no-repeat;
+  background: url("../../assets/images/rat/button.png") no-repeat;
   width: 180px;
   height: 54px;
 }
 .play_now:hover {
-  background: url("/assets/images/rat/buttonhover.png") no-repeat;
+  background: url("../../assets/images/rat/buttonhover.png") no-repeat;
 }
