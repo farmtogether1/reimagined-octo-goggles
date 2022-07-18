@@ -9802,7 +9802,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tokenomics_section {
-  background: #090a1a;
+  /* background: #090a1a; */
   padding-top: 0px;
   padding-bottom: 105px;
 }
@@ -9949,15 +9949,15 @@ div.latest-item .hover-shape-bg {
 }
 
 .tokenomics_list_sect ul li span.farming_pool {
-  background: #a3ff12;
+  background: #fd9800;
 }
 
 .tokenomics_list_sect ul li span.staking {
-  background: #841183;
+  background: #003f5a;
 }
 
 .tokenomics_list_sect ul li span.ecosystem {
-  background: #0b58fe;
+  background: #ffffff;
 }
 
 .tokenomics_list_sect ul li span.advisors {
@@ -9965,11 +9965,11 @@ div.latest-item .hover-shape-bg {
 }
 
 .tokenomics_list_sect ul li span.private_Sale {
-  background: #6d4afe;
+  background: #8ac33e;
 }
 
 .tokenomics_list_sect ul li span.liquidity {
-  background: #14a0c0;
+  background: #ff4c16;
 }
 
 .tokenomics_list_sect ul li span.marketing {
@@ -9977,11 +9977,11 @@ div.latest-item .hover-shape-bg {
 }
 
 .tokenomics_list_sect ul li span.advisors {
-  background: #f82552;
+  background: #01abcc;
 }
 
 .tokenomics_contents_right .tokenomics_contents_right_img {
-  background: rgba(30, 31, 53, 0.8);
+  /* background: rgba(30, 31, 53, 0.8); */
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
   max-width: 570px;

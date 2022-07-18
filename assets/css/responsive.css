@@ -35,6 +35,12 @@
     display: block !important;
     margin-left: 100px;
   }
+  .TOKENMETRICS_mobile {
+    font-size: 45px;
+  }
+  .roadmap_item {
+    padding-left: 50px;
+  }
   .gamfi-header-section .header-menu ul li + li {
     margin-left: 25px;
   }
