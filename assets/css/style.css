@@ -14901,7 +14901,7 @@ div.latest-item .hover-shape-bg {
 
 /* --- Gamfi footer Section CSS ---*/
 .gamfi-footer-section {
-  background-color: #090a1a;
+  /* background-color: #090a1a; */
   position: relative;
 }
 
@@ -14913,13 +14913,9 @@ div.latest-item .hover-shape-bg {
 }
 
 .gamfi-footer-section .footer-area {
-  background: url("../images/bg/footer-bg.jpg");
-  background-repeat: no-repeat;
-  background-position: center bottom;
-  background-size: cover;
   position: relative;
   padding-top: 250px;
-  margin-top: -150px;
+  /* margin-top: -150px; */
 }
 
 .footer-bg-transparent {
@@ -15004,7 +15000,7 @@ div.latest-item .hover-shape-bg {
 
 .footer-icon-list i {
   color: #ffffff;
-  background: url("../images/icons/icon-image.png");
+  /* background: url("../images/icons/icon-image.png"); */
   width: 60px;
   height: 60px;
   line-height: 60px;
